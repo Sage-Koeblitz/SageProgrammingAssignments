@@ -6,6 +6,7 @@ int calculate (float numBase = 0, float numInput = 0) {
     int I[9];
     if (numBase = numInput) {I[numBase].ignore; }
 }
+
 int main() {
 
     int num = 0;
@@ -20,3 +21,4 @@ int main() {
 
     cout << I[num] << endl;
 }
+
